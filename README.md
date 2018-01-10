@@ -36,3 +36,8 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 To the extent possible under law, Thierryc has waived all copyright and
 related or neighboring rights to this work.
+# awesome-origami
+
+### **Awesome Origami** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A collection of awesome things regarding Origami Studio ecosystem.
