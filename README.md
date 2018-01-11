@@ -3,13 +3,13 @@
 > Origami Studio ecosystem (Patchs and examples)
 
 
-## Patchs
+## Sections
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Systems](#Systems)
+- [Patchs](#Patchs)
 
 
-## System
+## Systems
 
 Ansome Origami System.
 
@@ -17,7 +17,7 @@ Ansome Origami System.
 - Add yours!
 
 
-## Patch
+## Patchs
 
 ### Examples
 
