@@ -14,7 +14,7 @@
 
 Ansome Origami System.
 
-- [Origami-Studio-Systems](https://github.com/jonathanhammond/Origami-Studio-Systems)
+- [Origami-Studio-Systems](https://github.com/jonathanhammond/Origami-Studio-Systems) (by [jonathanhammond](https://github.com/jonathanhammond))
 - Add yours!
 
 
