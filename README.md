@@ -5,8 +5,8 @@
 
 ## Sections
 
-- [Systems](#Systems)
-- [Patchs](#Patchs)
+- [Systems](#systems)
+- [Patchs](#patchs)
 
 
 ## Systems
