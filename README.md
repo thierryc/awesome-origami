@@ -6,7 +6,7 @@
 ## Sections
 
 - [Systems](#systems)
-- [Patchs](#patches)
+- [Patches](#patches)
 
 
 ## Systems
