@@ -6,7 +6,7 @@
 ## Sections
 
 - [Systems](#systems)
-- [Patchs](#patchs)
+- [Patchs](#patches)
 
 
 ## Systems
@@ -17,7 +17,9 @@ Ansome Origami System.
 - Add yours!
 
 
-## Patchs
+## Patches
+
+Ansome Origami patches.
 
 ### Examples
 
