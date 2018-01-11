@@ -1,6 +1,7 @@
 # Awesome Origami [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Origami Studio ecosystem (Systems, Patches and Examples)
+> A collection of things regarding to the Origami Studio ecosystem (Systems, Patches and Examples).
+> Please contribute ! Help wanted.
 
 
 ## Sections
