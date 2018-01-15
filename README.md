@@ -26,6 +26,7 @@ Ansome Origami patches.
 
 - [Origami Studio Examples](https://origami.design/examples/)
 - [Comma Converter (ap.cx).origami](https://www.dropbox.com/s/h8gc9aov52x1zgo/Comma%20Converter%20%28ap.cx%29.origami?dl=0)
+- [A small intro for a large social application vk.com](https://www.dropbox.com/s/oqp1e19japbcpcg/Intro.origami?dl=0) from [Ilya Grishin](https://www.facebook.com/ilyagrshn?fref=gs&hc_ref=ARRsV3Zcs7GsqEC_vfoQXV9XMSAPsn75WU19Wr7-_M1gf2S11UgpD642uE_YHw8p5SU&dti=508155215950032&hc_location=group) 
 - Add yours!
 
 
